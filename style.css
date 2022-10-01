@@ -1,0 +1,14 @@
+
+
+ .registration-form{
+    width: 800px;
+    margin: auto;
+ }
+
+label{
+
+color: rgb(0, 0, 0);
+ }
+ /* .valid-feedback, .invalid-feedback{
+    display: block;
+ } */
